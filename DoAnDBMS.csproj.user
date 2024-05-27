@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FAddDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FAddMon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FAddNL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FBanView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Product.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCAddKH.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCAddSP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCBan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCdmHoaDon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCdmNV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCdmPC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCPhanCongNV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCPhanCongQL.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCProInCartcs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCQLyNV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCQuanLyBan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCQuanLyNL.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCQuanLyTC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
